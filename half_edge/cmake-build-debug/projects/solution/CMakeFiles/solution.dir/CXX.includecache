@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/fanus/Documents/Projects/Git/axefor-5/S0017D/Half-Edge/projects/solution/code/halfEdgeMeshes.cpp
+fstream
+-
+halfEdgeMeshes.h
+/home/fanus/Documents/Projects/Git/axefor-5/S0017D/Half-Edge/projects/solution/code/halfEdgeMeshes.h
+string.h
+-
+GL/glut.h
+-
+iostream
+-
+
+/home/fanus/Documents/Projects/Git/axefor-5/S0017D/Half-Edge/projects/solution/code/halfEdgeMeshes.h
+vector
+-
+
